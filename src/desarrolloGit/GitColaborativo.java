@@ -27,10 +27,10 @@ public class GitColaborativo {
 		else if((km < 300) && (vip == 2))
 		System.out.println("Total: " + 200);
 		
-		else if((km >300) && (km <= 1000) && (vip == 2 ))
+		else if((km >=300) && (km <= 1000) && (vip == 2 ))
 		System.out.println("Total no vip: " + (p1 * 1.21));
 		
-		else if((km > 300) && (km <= 1000) && (vip == 1))
+		else if((km >= 300) && (km <= 1000) && (vip == 1))
 		System.out.println("Total:" + (p1 * 0.95) * 1.21 );
 		
 		else if((km > 1000) && (vip == 2))
