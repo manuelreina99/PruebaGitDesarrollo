@@ -15,5 +15,5 @@ El algoritmo determina y muestra el precio final a pagar por el alquiler de un v
 
 modificaciones
 1 se han añadido indentaciones y llaves en los if y else if
-2 se han añadido constantes final
+2 se han añadido constantes final.
 
